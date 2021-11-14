@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap');
+
+
+#img-container {
+
+display: flex;
+
+}
+
+.img-preview {
+    width:100px;
+    height: 100px;
+    box-shadow: 0px 0px 10px red;
+}
+
+.para {
+    font-size: 16px;
+    color:chocolate;
+}
+
+#img-body {
+    background-color: aqua;
+    font-family: 'Yuji Syuku', serif;
+}
+
+body {
+    background-color: lightcoral;
+    font-family: 'Yuji Syuku', serif;
+}
